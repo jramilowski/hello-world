@@ -1,5 +1,5 @@
-1. [ Description. ](#desc)
-2. [ Usage tips. ](#usage)
+**1. [ Description. ]**(#desc)
+**2. [ Usage tips. ]**(#usage)
 * 2.1. [ Special tips. ](#special-tips)
 
 
