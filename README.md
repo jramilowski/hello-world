@@ -1,6 +1,7 @@
 1. [ Description. ](#1)
 2. [ Usage tips. ](#2)
-* 2.1.  [ Special tips. ](#2.1)
+
+2.1.  [ Special tips. ](#2.1)
 
 
 <a name="1"></a>
