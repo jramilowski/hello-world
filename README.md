@@ -1,6 +1,7 @@
-1.  [ Description. ](#1)
 {::options parse_block_html="true" /}
-<details><summary markdown="span">2.  [ Usage tips. ](#2)</summary>
+1.  [ Description. ](#1)
+<details><summary markdown="span">
+2.  [ Usage tips. ](#2)</summary>
 ```python
 * 2.1.  [ Special tips. ](#2.1)
 ```
