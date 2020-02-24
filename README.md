@@ -1,11 +1,14 @@
 1.  [ Description. ](#1)
-<details>
-<summary>Read more...</summary>
-2.  [ Usage tips. ](#2)
+{::options parse_block_html="true" /}
+<details><summary markdown="span">2.  [ Usage tips. ](#2)</summary>
+```python
 * 2.1.  [ Special tips. ](#2.1)
-* 2.2.  [ No Special tips. ](#2.1)
-</details>    
+```
+Of course, it has to be Hello World, right?
+</details>
+<br/>
 
+{::options parse_block_html="false" /}
 
 <a name="1"></a>
 ## 1. Description
