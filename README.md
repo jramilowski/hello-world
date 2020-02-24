@@ -1,9 +1,8 @@
 1.  [ Description. ](#1)
 2.  [ Usage tips. ](#2)
 <details>
-<summary>Read more...</summary>
-*   2.1.  [ Special tips. ](#2.1)
-<details>    
+<summary>more...</summary>
+*   2.1.  [ Special tips. ](#2.1)<details>    
 
 
 <a name="1"></a>
