@@ -4,6 +4,7 @@
 <summary>Read more...</summary>
 
 * 2.1.  [ Special tips. ](#2.1)
+* 2.2.  [ No Special tips. ](#2.1)
 </details>    
 
 
@@ -14,4 +15,6 @@ sometext
 ## 2. Usage tips
 <a name="2.1"></a>
 ### 2.1 Special tips
+<a name="2.2"></a>
+### 2.1 No Special tips
     
