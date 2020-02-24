@@ -1,23 +1,17 @@
-{::options parse_block_html="true" /}
-1.  [ Description. ](#1)
-<details><summary markdown="span">
-2.  [ Usage tips. ](#2)</summary>
-```python
-* 2.1.  [ Special tips. ](#2.1)
-```
-Of course, it has to be Hello World, right?
-</details>
-<br/>
-
-{::options parse_block_html="false" /}
-
-<a name="1"></a>
-## 1. Description
-sometext
-<a name="2"></a>
-## 2. Usage tips
-<a name="2.1"></a>
-### 2.1 Special tips
-<a name="2.2"></a>
-### 2.1 No Special tips
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
     
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
