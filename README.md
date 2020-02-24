@@ -2,7 +2,7 @@
 2.  [ Usage tips. ](#2)
     <details>
     <summary>Read more...</summary>
-    *   2.1. [ Special tips. ](#2.1)
+* 2.1.  [ Special tips. ](#2.1)
     <details>    
 
 
