@@ -1,6 +1,5 @@
 1.  [ Description. ](#1)
-2.  [ Usage tips. ](#2) 
-<details>
+2.  [ Usage tips. ](#2) <details>
 <summary>more</summary>
 * 2.1.  [ No Special Tips. ](#2.1)
 * 2.2.  [ Special Tips. ](#2.2)
